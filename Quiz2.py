@@ -1,3 +1,6 @@
+#Programa que calcula si un punto dado por el usuario esta entre dos circulos
+#Julian Sanchez
+#GPLV3
 x1=int(input())
 y1=int(input())
 r1=int(input())
